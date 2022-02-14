@@ -1,0 +1,10 @@
+.roll-btn{
+    color: white;
+    background-color: blueviolet;
+}
+
+.roll-btn:hover {
+    color: blueviolet;
+    background-color: white;
+    border: 2px solid blueviolet;
+}
